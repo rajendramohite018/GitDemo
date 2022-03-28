@@ -12,5 +12,6 @@ public class Test2 {
 	@Test
 	public void d() {
 		System.out.println("d is method name");
+		System.out.println("e is method name");
 	}
 }
