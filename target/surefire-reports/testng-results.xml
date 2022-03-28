@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="32" started-at="2022-03-25T06:08:16Z" finished-at="2022-03-25T06:08:16Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="32" started-at="2022-03-25T06:08:16Z" finished-at="2022-03-25T06:08:16Z">
+      <class name="qaclickacdemy.Test1">
+        <test-method status="PASS" signature="a()[pri:0, instance:qaclickacdemy.Test1@36d64342]" name="a" duration-ms="0" started-at="2022-03-25T06:08:16Z" finished-at="2022-03-25T06:08:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+      </class> <!-- qaclickacdemy.Test1 -->
+      <class name="qaclickacdemy.Test2">
+        <test-method status="PASS" signature="d()[pri:0, instance:qaclickacdemy.Test2@39ba5a14]" name="d" duration-ms="8" started-at="2022-03-25T06:08:16Z" finished-at="2022-03-25T06:08:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method status="PASS" signature="b()[pri:0, instance:qaclickacdemy.Test2@39ba5a14]" name="b" duration-ms="0" started-at="2022-03-25T06:08:16Z" finished-at="2022-03-25T06:08:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+      </class> <!-- qaclickacdemy.Test2 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
